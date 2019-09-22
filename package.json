@@ -2,7 +2,7 @@
   "name": "mdb-easy-event-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://namdaoduy.github.io/mdb-easy-event-react/",
+  "homepage": "https://easy-event-v1.namdaoduy.dev",
   "dependencies": {
     "informed": "^1.10.9",
     "mdbreact": "^4.8.1",
